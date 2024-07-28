@@ -10,8 +10,8 @@ This should make the sdmsh file and add the libreadline dependancy.
 Now to add our scripts for running the modems:
 ```
 $ cd ..
-$ git clone something something blah: evologics
-$ mv sdmsh/sdmsh evologics/
+$ git clone https://github.com/marinetech/Evologics-modems.git
+$ mv sdmsh/sdmsh Evologics-modems/
 ```
 finally remove the folder with the unnecessary sdm shell components
 ```
