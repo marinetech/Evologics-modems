@@ -48,9 +48,7 @@ for m in modems:
 	while(1<100000):
 		i=i+1
 		print("transmission #" + str(i+1))
-		runCMD('tx /home/ilan/chirp_48_53',m)
-		#runCMD('tx TxChirp',m)
+		runCMD('tx TxChirp',m)
 		#runCMD('tx Sig',m)
-		#runCMD('tx tmp/NormSig2Tx',m)
 		sleep(1)
 
