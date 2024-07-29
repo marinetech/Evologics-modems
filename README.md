@@ -3,7 +3,7 @@ Start by installing SDMShell (install git if neccessary or download manually) ac
 ```
 $ git clone https://github.com/evologics/sdmsh.git
 $ cd sdmsh
-$ sudo apt-get install libreadline-dev
+$ sudo apt-get install libreadline-dev -y
 $ make
 ```
 This should make the sdmsh file and add the libreadline dependancy.
