@@ -5,6 +5,10 @@ Start by installing the libreadline dependancy:
 ```
 $ sudo apt-get install libreadline-dev -y
 ```
+If you wish to install git:
+```
+$ sudo apt-get install git -y
+```
 The install the SDMShell (install git if neccessary or download manually) according to the [github page.](https://github.com/EvoLogics/sdmsh/wiki/SDM-%3A-SDMShell---Compile-and-Run)
 ```
 $ git clone https://github.com/evologics/sdmsh.git
