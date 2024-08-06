@@ -50,5 +50,5 @@ for m in modems:
 		print("transmission #" + str(i+1))
 		runCMD('tx TxChirp',m)
 		#runCMD('tx Sig',m)
-		sleep(1)
+		sleep(1)   # in seconds
 
