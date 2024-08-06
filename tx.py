@@ -3,7 +3,7 @@ from helper import reset
 from helper import runCMD
 
 #Fs = 62500 #7-17 Modems
-Fs = 250000 #4-48 Modems
+Fs = 250000 #48-78 Modems
 c = {}
 
 ############################
